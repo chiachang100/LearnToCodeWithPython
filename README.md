@@ -1,7 +1,7 @@
 # Course Title: Learn To Code With Python
 
 ## Date and Place
-This is a six week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
+This is a six week course, 10/27, 11/3, 11/10, 11/17, 11/24, 12/1, on Sunday from 6:00 PM - 8:00PM.
 
 ## Description
 **This course is based on Allen B. Downey’s "[Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)" book and methods for learning Python 3.**
