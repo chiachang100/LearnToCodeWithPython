@@ -52,7 +52,7 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     ([PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/))
     * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     * [Learn Python](http://learnpython.org/)
-* [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0)".
+* [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0).
 
 ### Useful Links
 * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
