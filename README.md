@@ -52,13 +52,13 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     ([PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/))
     * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     * [Learn Python](http://learnpython.org/)
+* [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0)".
 
 ### Useful Links
 * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
 * [Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities By Philip Guo.](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
 * [Python is the most popular programming language in PYPL PopularitY of Programming Language Index](http://pypl.github.io/PYPL.html)
 * [Python is top 5 programming language in TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/)
-* [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0)".
 
 ### Using Python with Apache Spark and TensorFlow and Others
 * [Python Success Stories](https://www.python.org/success-stories/)
