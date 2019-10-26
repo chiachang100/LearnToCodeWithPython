@@ -1,7 +1,7 @@
 # Course Title: Learn To Code With Python
 
 ## Date and Place
-This is a six week course on Tuescay, 10/29, 11/5, 11/12, 11/19, 11/26, 12/3 from 6:00 PM - 8:00PM.
+This is a eight week course on Tuescay, 10/29, 11/5, 11/12, 11/19, 11/26, 12/3, 12/10, 12/17 from 6:00 PM - 8:00PM.
 
 ## Description
 **This course is based on Allen B. Downey’s "[Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)" book and methods for learning Python 3.**
