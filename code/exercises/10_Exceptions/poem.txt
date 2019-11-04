@@ -1,0 +1,4 @@
+A quick brown fox jumps over a lazy dog.
+Hello, World!
+Hello every students in the Learn to Program with Python!
+How are you? Are you having funs? Learning and programming are fun!
