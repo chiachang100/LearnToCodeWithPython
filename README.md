@@ -43,12 +43,13 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     ([PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/))
     * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     * [Learn Python](http://learnpython.org/)
-* [A Byte of Python, Swaroop C H.](https://python.swaroopch.com/)
-* [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
-    ([PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf))
-    ([HTML](http://greenteapress.com/thinkpython2/html/index.html))
-    ([Solutions to Exercises](https://github.com/AllenDowney/ThinkPython2/tree/master/code))
-* [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0).
+* Books referenced in the class
+    * [A Byte of Python, Swaroop C H.](https://python.swaroopch.com/)
+    * [Think Python 2nd Edition by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
+        ([PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf))
+        ([HTML](http://greenteapress.com/thinkpython2/html/index.html))
+        ([Solutions to Exercises](https://github.com/AllenDowney/ThinkPython2/tree/master/code))
+    * [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0).
 
 ### Useful Links
 * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
