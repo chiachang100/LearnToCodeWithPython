@@ -28,7 +28,7 @@ You need a Windows 10, Mac OSX, or Linux computer (optional charger) with at lea
 
 ### BEFORE THE FIRST CLASS
 * Download and install the following software:
-    * Python 3.6 or higher from [python.org](https://www.python.org/) website.
+    * Python 3.8 or higher from [python.org](https://www.python.org/) website.
     * We'll be using [Visual Studio Code](https://code.visualstudio.com/) for Windows, macOS, or Linux to edit your code.
 
 ## Instructor: Chia James Chang
@@ -50,6 +50,10 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
         ([HTML](http://greenteapress.com/thinkpython2/html/index.html))
         ([Solutions to Exercises](https://github.com/AllenDowney/ThinkPython2/tree/master/code))
     * [The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0).
+* Tools used in the class
+    * Python 3.8 or higher from [python.org](https://www.python.org/) website.
+    * [Visual Studio Code](https://code.visualstudio.com/) for Windows, macOS, or Linux.
+    * [repl.it - Online Python IDE](https://repl.it/languages/python3)
 
 ### Useful Links
 * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
