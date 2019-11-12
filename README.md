@@ -1,7 +1,7 @@
 # Course Title: Learn To Code With Python
 
 ## Date and Place
-This is a four-week course on Tuesday, 11/5, 11/12, 11/19, and 11/26 from 6:00 PM - 8:00PM.
+This is a four-week course on Tuesday, 11/5, 11/12, 11/19, and 11/26 from 7:00 PM - 9:00PM.
 
 ## Description
 Why Python? Python is a programming language that lets you work quickly and integrate systems more effectively [[python.org](https://www.python.org/)]. Python is a powerful, expressive programming language that’s easy to learn and fun to use! 
