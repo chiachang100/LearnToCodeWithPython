@@ -54,6 +54,10 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     * Python 3.8 or higher from [python.org](https://www.python.org/) website.
     * [Visual Studio Code](https://code.visualstudio.com/) for Windows, macOS, or Linux.
     * [repl.it - Online Python IDE](https://repl.it/languages/python3)
+* Basic OS commands
+    * Windows: [11 basic commands you should know (cd, dir, mkdir, etc.)](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands).
+    * Mac OS X: [How to use the Terminal command line in Mac OS](https://macpaw.com/how-to/use-terminal-on-mac).
+    * Linux/Unix: [Basic Linux/Unix Commands with Examples](https://www.guru99.com/must-know-linux-commands.html).
 
 ### Useful Links
 * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
